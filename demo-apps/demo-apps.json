@@ -1,0 +1,58 @@
+[
+    {
+        "name": "eagle-reporting-center-zf1",
+        "title": "Eagle - Reporting Center ZF1",
+        "type": "window",
+        "details": {
+            "url": "http://localhost:9001",
+            "mode": "tab",
+            "width": 400,
+            "height": 400
+        },
+        "customProperties": {
+            "folder": "Eagle"
+        }
+    },
+    {
+        "name": "eagle-reporting-center-zf2",
+        "title": "Eagle - Reporting Center ZF2",
+        "type": "window",
+        "details": {
+            "url": "http://localhost:9001",
+            "mode": "tab",
+            "width": 400,
+            "height": 400
+        },
+        "customProperties": {
+            "folder": "Eagle"
+        }
+    },
+    {
+        "name": "eagle-reporting-center-zf3",
+        "title": "Eagle - Reporting Center ZF3",
+        "type": "window",
+        "details": {
+            "url": "http://localhost:9001",
+            "mode": "tab",
+            "width": 400,
+            "height": 400
+        },
+        "customProperties": {
+            "folder": "Eagle"
+        }
+    },
+    {
+        "name": "trace-exceptions",
+        "title": "Trace - Exceptions",
+        "type": "window",
+        "details": {
+            "url": "http://localhost:9002",
+            "mode": "tab",
+            "width": 400,
+            "height": 400
+        },
+        "customProperties": {
+            "folder": "Trace"
+        }
+    }
+]

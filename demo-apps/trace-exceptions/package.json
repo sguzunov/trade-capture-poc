@@ -1,0 +1,14 @@
+{
+  "name": "mock-eagle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx http-server ./app -p 9002 -c-1"
+  },
+  "author": "Tick42",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
