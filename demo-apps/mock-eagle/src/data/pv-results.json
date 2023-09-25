@@ -1,0 +1,802 @@
+[
+    {
+        "quantity": 82293,
+        "positionCurrentCostLocal": 185962,
+        "positionCurrentCostBase": 76736,
+        "averageUnitCostLocal": 49.709117918,
+        "averageUnitCostBase": 52.682973069,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 44308,
+        "positionCurrentCostLocal": 253847,
+        "positionCurrentCostBase": 50412,
+        "averageUnitCostLocal": 58.014020286,
+        "averageUnitCostBase": 51.323467275,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 59787,
+        "positionCurrentCostLocal": 185167,
+        "positionCurrentCostBase": 126830,
+        "averageUnitCostLocal": 57.458646400,
+        "averageUnitCostBase": 51.744808685,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 51654,
+        "positionCurrentCostLocal": 275615,
+        "positionCurrentCostBase": 105852,
+        "averageUnitCostLocal": 49.963642910,
+        "averageUnitCostBase": 50.778019975,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 88189,
+        "positionCurrentCostLocal": 220915,
+        "positionCurrentCostBase": 271852,
+        "averageUnitCostLocal": 40.292538652,
+        "averageUnitCostBase": 46.415744121,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 26357,
+        "positionCurrentCostLocal": 280143,
+        "positionCurrentCostBase": 36764,
+        "averageUnitCostLocal": 44.919515764,
+        "averageUnitCostBase": 50.447861228,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 29637,
+        "positionCurrentCostLocal": 50922,
+        "positionCurrentCostBase": 67831,
+        "averageUnitCostLocal": 54.651999462,
+        "averageUnitCostBase": 55.420294493,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 33674,
+        "positionCurrentCostLocal": 255509,
+        "positionCurrentCostBase": 130632,
+        "averageUnitCostLocal": 46.959962717,
+        "averageUnitCostBase": 52.355325998,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 99353,
+        "positionCurrentCostLocal": 58438,
+        "positionCurrentCostBase": 66671,
+        "averageUnitCostLocal": 45.299629997,
+        "averageUnitCostBase": 48.924135776,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 19662,
+        "positionCurrentCostLocal": 22758,
+        "positionCurrentCostBase": 266893,
+        "averageUnitCostLocal": 45.035173111,
+        "averageUnitCostBase": 49.460575389,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 36447,
+        "positionCurrentCostLocal": 224808,
+        "positionCurrentCostBase": 15667,
+        "averageUnitCostLocal": 52.822243119,
+        "averageUnitCostBase": 44.488837604,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 76376,
+        "positionCurrentCostLocal": 66052,
+        "positionCurrentCostBase": 131425,
+        "averageUnitCostLocal": 51.947012730,
+        "averageUnitCostBase": 50.982440752,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 46729,
+        "positionCurrentCostLocal": 214958,
+        "positionCurrentCostBase": 201198,
+        "averageUnitCostLocal": 50.144074336,
+        "averageUnitCostBase": 52.637911031,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 60453,
+        "positionCurrentCostLocal": 101819,
+        "positionCurrentCostBase": 285903,
+        "averageUnitCostLocal": 46.168066529,
+        "averageUnitCostBase": 48.761854096,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 29082,
+        "positionCurrentCostLocal": 291445,
+        "positionCurrentCostBase": 279794,
+        "averageUnitCostLocal": 55.606067104,
+        "averageUnitCostBase": 52.558032181,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 9293,
+        "positionCurrentCostLocal": 119401,
+        "positionCurrentCostBase": 118394,
+        "averageUnitCostLocal": 53.367099683,
+        "averageUnitCostBase": 44.311175279,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 38394,
+        "positionCurrentCostLocal": 92577,
+        "positionCurrentCostBase": 287636,
+        "averageUnitCostLocal": 45.481617550,
+        "averageUnitCostBase": 49.240601537,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 54556,
+        "positionCurrentCostLocal": 237218,
+        "positionCurrentCostBase": 107566,
+        "averageUnitCostLocal": 46.306198368,
+        "averageUnitCostBase": 54.080360741,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 62945,
+        "positionCurrentCostLocal": 101203,
+        "positionCurrentCostBase": 164375,
+        "averageUnitCostLocal": 49.544195083,
+        "averageUnitCostBase": 45.795662222,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 87402,
+        "positionCurrentCostLocal": 261359,
+        "positionCurrentCostBase": 190336,
+        "averageUnitCostLocal": 46.562655509,
+        "averageUnitCostBase": 48.649321283,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 96906,
+        "positionCurrentCostLocal": 121630,
+        "positionCurrentCostBase": 191867,
+        "averageUnitCostLocal": 53.033363124,
+        "averageUnitCostBase": 49.473596757,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 41966,
+        "positionCurrentCostLocal": 14364,
+        "positionCurrentCostBase": 116401,
+        "averageUnitCostLocal": 45.980179143,
+        "averageUnitCostBase": 49.971177069,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 38135,
+        "positionCurrentCostLocal": 15066,
+        "positionCurrentCostBase": 51431,
+        "averageUnitCostLocal": 52.194745919,
+        "averageUnitCostBase": 49.524535850,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 55409,
+        "positionCurrentCostLocal": 205117,
+        "positionCurrentCostBase": 174721,
+        "averageUnitCostLocal": 48.085895984,
+        "averageUnitCostBase": 47.666061582,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 73217,
+        "positionCurrentCostLocal": 106216,
+        "positionCurrentCostBase": 122877,
+        "averageUnitCostLocal": 48.373099906,
+        "averageUnitCostBase": 48.896381717,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 94750,
+        "positionCurrentCostLocal": 77240,
+        "positionCurrentCostBase": 68470,
+        "averageUnitCostLocal": 51.006320558,
+        "averageUnitCostBase": 48.661401992,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 26797,
+        "positionCurrentCostLocal": 296570,
+        "positionCurrentCostBase": 257857,
+        "averageUnitCostLocal": 57.082137555,
+        "averageUnitCostBase": 48.036323002,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 96231,
+        "positionCurrentCostLocal": 58433,
+        "positionCurrentCostBase": 187566,
+        "averageUnitCostLocal": 48.812727260,
+        "averageUnitCostBase": 56.546436825,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 77619,
+        "positionCurrentCostLocal": 208034,
+        "positionCurrentCostBase": 229377,
+        "averageUnitCostLocal": 41.647905485,
+        "averageUnitCostBase": 49.744096474,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 98978,
+        "positionCurrentCostLocal": 225157,
+        "positionCurrentCostBase": 36281,
+        "averageUnitCostLocal": 52.370962414,
+        "averageUnitCostBase": 46.377534812,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 52890,
+        "positionCurrentCostLocal": 50441,
+        "positionCurrentCostBase": 133037,
+        "averageUnitCostLocal": 50.031322959,
+        "averageUnitCostBase": 50.799005595,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 46602,
+        "positionCurrentCostLocal": 272769,
+        "positionCurrentCostBase": 216108,
+        "averageUnitCostLocal": 57.854131458,
+        "averageUnitCostBase": 49.645329796,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 48365,
+        "positionCurrentCostLocal": 79026,
+        "positionCurrentCostBase": 148284,
+        "averageUnitCostLocal": 56.107804682,
+        "averageUnitCostBase": 47.584866757,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 52201,
+        "positionCurrentCostLocal": 108686,
+        "positionCurrentCostBase": 251574,
+        "averageUnitCostLocal": 53.629102267,
+        "averageUnitCostBase": 50.162552318,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 24186,
+        "positionCurrentCostLocal": 240006,
+        "positionCurrentCostBase": 254340,
+        "averageUnitCostLocal": 55.905502470,
+        "averageUnitCostBase": 50.506082127,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 92728,
+        "positionCurrentCostLocal": 164959,
+        "positionCurrentCostBase": 242479,
+        "averageUnitCostLocal": 50.304785051,
+        "averageUnitCostBase": 43.565909975,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 62482,
+        "positionCurrentCostLocal": 69044,
+        "positionCurrentCostBase": 288092,
+        "averageUnitCostLocal": 54.817603921,
+        "averageUnitCostBase": 55.544712514,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 89855,
+        "positionCurrentCostLocal": 256705,
+        "positionCurrentCostBase": 207082,
+        "averageUnitCostLocal": 51.000671779,
+        "averageUnitCostBase": 51.034851676,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 72865,
+        "positionCurrentCostLocal": 181842,
+        "positionCurrentCostBase": 147035,
+        "averageUnitCostLocal": 51.466420987,
+        "averageUnitCostBase": 48.684685871,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 94788,
+        "positionCurrentCostLocal": 95815,
+        "positionCurrentCostBase": 283950,
+        "averageUnitCostLocal": 45.930307245,
+        "averageUnitCostBase": 47.916905744,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 8391,
+        "positionCurrentCostLocal": 190802,
+        "positionCurrentCostBase": 88057,
+        "averageUnitCostLocal": 46.856670415,
+        "averageUnitCostBase": 52.728289909,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 43493,
+        "positionCurrentCostLocal": 86417,
+        "positionCurrentCostBase": 145333,
+        "averageUnitCostLocal": 52.458505666,
+        "averageUnitCostBase": 48.412658247,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 52289,
+        "positionCurrentCostLocal": 26672,
+        "positionCurrentCostBase": 129296,
+        "averageUnitCostLocal": 47.833119298,
+        "averageUnitCostBase": 50.302055671,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 91584,
+        "positionCurrentCostLocal": 245715,
+        "positionCurrentCostBase": 203331,
+        "averageUnitCostLocal": 47.322104862,
+        "averageUnitCostBase": 53.303912074,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 63187,
+        "positionCurrentCostLocal": 91593,
+        "positionCurrentCostBase": 99391,
+        "averageUnitCostLocal": 45.771936164,
+        "averageUnitCostBase": 50.977370480,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 88220,
+        "positionCurrentCostLocal": 286115,
+        "positionCurrentCostBase": 11171,
+        "averageUnitCostLocal": 51.099739680,
+        "averageUnitCostBase": 48.068138981,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 12012,
+        "positionCurrentCostLocal": 155548,
+        "positionCurrentCostBase": 244130,
+        "averageUnitCostLocal": 42.589096818,
+        "averageUnitCostBase": 46.275926607,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 42527,
+        "positionCurrentCostLocal": 221034,
+        "positionCurrentCostBase": 223513,
+        "averageUnitCostLocal": 50.108599677,
+        "averageUnitCostBase": 50.503880893,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 20978,
+        "positionCurrentCostLocal": 236298,
+        "positionCurrentCostBase": 11302,
+        "averageUnitCostLocal": 53.350796744,
+        "averageUnitCostBase": 52.197187865,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 38971,
+        "positionCurrentCostLocal": 253797,
+        "positionCurrentCostBase": 163235,
+        "averageUnitCostLocal": 55.328540317,
+        "averageUnitCostBase": 50.928227409,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 81064,
+        "positionCurrentCostLocal": 272530,
+        "positionCurrentCostBase": 217101,
+        "averageUnitCostLocal": 50.767429834,
+        "averageUnitCostBase": 50.631986880,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 75272,
+        "positionCurrentCostLocal": 232398,
+        "positionCurrentCostBase": 25189,
+        "averageUnitCostLocal": 52.999605608,
+        "averageUnitCostBase": 49.646049497,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 83092,
+        "positionCurrentCostLocal": 227910,
+        "positionCurrentCostBase": 35259,
+        "averageUnitCostLocal": 48.777679619,
+        "averageUnitCostBase": 52.402642160,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 17669,
+        "positionCurrentCostLocal": 183152,
+        "positionCurrentCostBase": 280838,
+        "averageUnitCostLocal": 49.983088311,
+        "averageUnitCostBase": 52.109193213,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 41976,
+        "positionCurrentCostLocal": 287160,
+        "positionCurrentCostBase": 137872,
+        "averageUnitCostLocal": 54.258044267,
+        "averageUnitCostBase": 50.836974501,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 98361,
+        "positionCurrentCostLocal": 233453,
+        "positionCurrentCostBase": 174311,
+        "averageUnitCostLocal": 54.795709336,
+        "averageUnitCostBase": 53.657998274,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 62888,
+        "positionCurrentCostLocal": 40995,
+        "positionCurrentCostBase": 255459,
+        "averageUnitCostLocal": 49.316897343,
+        "averageUnitCostBase": 54.010435191,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 64320,
+        "positionCurrentCostLocal": 238315,
+        "positionCurrentCostBase": 109505,
+        "averageUnitCostLocal": 48.279982925,
+        "averageUnitCostBase": 53.581996743,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 75661,
+        "positionCurrentCostLocal": 221741,
+        "positionCurrentCostBase": 24103,
+        "averageUnitCostLocal": 45.404550813,
+        "averageUnitCostBase": 50.583004132,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 25080,
+        "positionCurrentCostLocal": 218782,
+        "positionCurrentCostBase": 100264,
+        "averageUnitCostLocal": 48.535637215,
+        "averageUnitCostBase": 51.270207295,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 12071,
+        "positionCurrentCostLocal": 248022,
+        "positionCurrentCostBase": 35413,
+        "averageUnitCostLocal": 49.999420099,
+        "averageUnitCostBase": 46.454899573,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 12555,
+        "positionCurrentCostLocal": 81979,
+        "positionCurrentCostBase": 35142,
+        "averageUnitCostLocal": 50.699090671,
+        "averageUnitCostBase": 50.921417037,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 80790,
+        "positionCurrentCostLocal": 245300,
+        "positionCurrentCostBase": 133645,
+        "averageUnitCostLocal": 49.267576476,
+        "averageUnitCostBase": 49.820641675,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 81336,
+        "positionCurrentCostLocal": 23933,
+        "positionCurrentCostBase": 153084,
+        "averageUnitCostLocal": 52.637549130,
+        "averageUnitCostBase": 44.430473295,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 39450,
+        "positionCurrentCostLocal": 222646,
+        "positionCurrentCostBase": 83333,
+        "averageUnitCostLocal": 50.399125168,
+        "averageUnitCostBase": 50.340988403,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 83536,
+        "positionCurrentCostLocal": 167461,
+        "positionCurrentCostBase": 203499,
+        "averageUnitCostLocal": 52.027062214,
+        "averageUnitCostBase": 50.159177336,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 72509,
+        "positionCurrentCostLocal": 78894,
+        "positionCurrentCostBase": 12805,
+        "averageUnitCostLocal": 41.776851215,
+        "averageUnitCostBase": 52.177391318,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 24261,
+        "positionCurrentCostLocal": 76381,
+        "positionCurrentCostBase": 69016,
+        "averageUnitCostLocal": 42.991056033,
+        "averageUnitCostBase": 51.982562203,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 70985,
+        "positionCurrentCostLocal": 140334,
+        "positionCurrentCostBase": 286265,
+        "averageUnitCostLocal": 47.791795217,
+        "averageUnitCostBase": 50.214910611,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 32743,
+        "positionCurrentCostLocal": 27681,
+        "positionCurrentCostBase": 109421,
+        "averageUnitCostLocal": 49.435731579,
+        "averageUnitCostBase": 46.024335400,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 54632,
+        "positionCurrentCostLocal": 29457,
+        "positionCurrentCostBase": 174541,
+        "averageUnitCostLocal": 58.036578051,
+        "averageUnitCostBase": 49.678792103,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 9843,
+        "positionCurrentCostLocal": 230689,
+        "positionCurrentCostBase": 206296,
+        "averageUnitCostLocal": 48.874800816,
+        "averageUnitCostBase": 50.701886609,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 71942,
+        "positionCurrentCostLocal": 93408,
+        "positionCurrentCostBase": 299372,
+        "averageUnitCostLocal": 54.744138991,
+        "averageUnitCostBase": 52.865057980,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 80178,
+        "positionCurrentCostLocal": 12148,
+        "positionCurrentCostBase": 231172,
+        "averageUnitCostLocal": 53.675632051,
+        "averageUnitCostBase": 50.453993846,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 6042,
+        "positionCurrentCostLocal": 248615,
+        "positionCurrentCostBase": 89884,
+        "averageUnitCostLocal": 50.821927423,
+        "averageUnitCostBase": 50.870504066,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 92851,
+        "positionCurrentCostLocal": 143938,
+        "positionCurrentCostBase": 233840,
+        "averageUnitCostLocal": 47.597691047,
+        "averageUnitCostBase": 47.362294040,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 99617,
+        "positionCurrentCostLocal": 226712,
+        "positionCurrentCostBase": 172261,
+        "averageUnitCostLocal": 48.862425696,
+        "averageUnitCostBase": 50.610917396,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 66602,
+        "positionCurrentCostLocal": 68824,
+        "positionCurrentCostBase": 271957,
+        "averageUnitCostLocal": 53.896287940,
+        "averageUnitCostBase": 50.610519369,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 57839,
+        "positionCurrentCostLocal": 113409,
+        "positionCurrentCostBase": 254671,
+        "averageUnitCostLocal": 42.847732696,
+        "averageUnitCostBase": 52.325294898,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 30843,
+        "positionCurrentCostLocal": 147910,
+        "positionCurrentCostBase": 57236,
+        "averageUnitCostLocal": 47.885553588,
+        "averageUnitCostBase": 48.526882870,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 43075,
+        "positionCurrentCostLocal": 240762,
+        "positionCurrentCostBase": 116457,
+        "averageUnitCostLocal": 45.181670290,
+        "averageUnitCostBase": 49.232415432,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 53332,
+        "positionCurrentCostLocal": 205777,
+        "positionCurrentCostBase": 275966,
+        "averageUnitCostLocal": 54.500160131,
+        "averageUnitCostBase": 48.417065798,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 84627,
+        "positionCurrentCostLocal": 83888,
+        "positionCurrentCostBase": 213389,
+        "averageUnitCostLocal": 50.087770722,
+        "averageUnitCostBase": 51.595706281,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 85685,
+        "positionCurrentCostLocal": 92063,
+        "positionCurrentCostBase": 153526,
+        "averageUnitCostLocal": 44.773992721,
+        "averageUnitCostBase": 49.747255576,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 73345,
+        "positionCurrentCostLocal": 108363,
+        "positionCurrentCostBase": 122357,
+        "averageUnitCostLocal": 49.864140685,
+        "averageUnitCostBase": 50.123853282,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 93198,
+        "positionCurrentCostLocal": 63418,
+        "positionCurrentCostBase": 49335,
+        "averageUnitCostLocal": 52.312455163,
+        "averageUnitCostBase": 47.571482395,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 40741,
+        "positionCurrentCostLocal": 16252,
+        "positionCurrentCostBase": 225102,
+        "averageUnitCostLocal": 47.929974475,
+        "averageUnitCostBase": 51.972888172,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 36245,
+        "positionCurrentCostLocal": 225863,
+        "positionCurrentCostBase": 33264,
+        "averageUnitCostLocal": 44.878760935,
+        "averageUnitCostBase": 50.103239863,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 47522,
+        "positionCurrentCostLocal": 276965,
+        "positionCurrentCostBase": 214700,
+        "averageUnitCostLocal": 49.841820074,
+        "averageUnitCostBase": 51.457428394,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 85210,
+        "positionCurrentCostLocal": 223672,
+        "positionCurrentCostBase": 216064,
+        "averageUnitCostLocal": 55.343375690,
+        "averageUnitCostBase": 50.867130709,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 45323,
+        "positionCurrentCostLocal": 16806,
+        "positionCurrentCostBase": 265665,
+        "averageUnitCostLocal": 50.885466790,
+        "averageUnitCostBase": 48.354831979,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 85040,
+        "positionCurrentCostLocal": 108457,
+        "positionCurrentCostBase": 112421,
+        "averageUnitCostLocal": 49.968256239,
+        "averageUnitCostBase": 50.769395109,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 47283,
+        "positionCurrentCostLocal": 76566,
+        "positionCurrentCostBase": 188064,
+        "averageUnitCostLocal": 48.100055490,
+        "averageUnitCostBase": 50.141829203,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 94190,
+        "positionCurrentCostLocal": 40302,
+        "positionCurrentCostBase": 297201,
+        "averageUnitCostLocal": 52.382403053,
+        "averageUnitCostBase": 43.607134009,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 6790,
+        "positionCurrentCostLocal": 228502,
+        "positionCurrentCostBase": 76062,
+        "averageUnitCostLocal": 46.689467015,
+        "averageUnitCostBase": 45.849854969,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 24786,
+        "positionCurrentCostLocal": 179188,
+        "positionCurrentCostBase": 271764,
+        "averageUnitCostLocal": 46.596386250,
+        "averageUnitCostBase": 49.333790820,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 28122,
+        "positionCurrentCostLocal": 183751,
+        "positionCurrentCostBase": 232279,
+        "averageUnitCostLocal": 51.371668459,
+        "averageUnitCostBase": 51.293622392,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 35028,
+        "positionCurrentCostLocal": 143543,
+        "positionCurrentCostBase": 111027,
+        "averageUnitCostLocal": 53.963720565,
+        "averageUnitCostBase": 50.261681069,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 40693,
+        "positionCurrentCostLocal": 206001,
+        "positionCurrentCostBase": 108224,
+        "averageUnitCostLocal": 43.196102694,
+        "averageUnitCostBase": 49.455284280,
+        "reportStartDate": "Sep 27 2023"
+    },
+    {
+        "quantity": 42425,
+        "positionCurrentCostLocal": 134515,
+        "positionCurrentCostBase": 113350,
+        "averageUnitCostLocal": 48.179381235,
+        "averageUnitCostBase": 50.371152341,
+        "reportStartDate": "Sep 27 2023"
+    }
+]

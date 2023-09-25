@@ -1,0 +1,47 @@
+#root {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.reporting-center-welcome img {
+  height: 100vh;
+}
+
+.form-header {
+  color: #B3C0E1;
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+.required:before {
+  content: "*";
+  color: red;
+}
+
+.search-form .form-group,
+.selection-form .form-group {
+  margin-bottom: 0;
+}
+
+.page {
+  border-left: 3px solid #767D7D;
+  border-right: 3px solid #767D7D;
+}
+
+.ribbon-menu {
+  position: relative;
+}
+
+.app-name {
+  position: absolute;
+  left: 40%;
+}
+
+.username {
+  position: absolute;
+  right: 100px;
+}
