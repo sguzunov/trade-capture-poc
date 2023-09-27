@@ -1,44 +1,116 @@
 [
     {
         "name": "eagle-reporting-center-zf1",
-        "title": "Eagle - Reporting Center ZF1",
+        "title": "Reporting Center ZF1",
         "type": "window",
         "details": {
             "url": "http://localhost:9001",
             "mode": "tab",
-            "width": 400,
-            "height": 400
+            "width": 1300,
+            "height": 610
         },
         "customProperties": {
-            "folder": "Eagle"
+            "folder": "Eagle",
+            "env": "ZF1",
+            "taSearchParams": {
+                "AAC0601": {
+                    "entityId": "AAC0601",
+                    "entityName": "AA Global Equity Fund",
+                    "accountingBasis": "GAAP",
+                    "selectView": "Total Fund",
+                    "reportType": "Accounting Date",
+                    "reportPeriod": "Daily Activity"
+                }
+            },
+            "pvSearchParams": {
+                "BBC0601": {
+                    "entityId": "BBC0601",
+                    "entityName": "BB Global Equity Fund",
+                    "accountingBasis": "GAAP",
+                    "selectView": "Total Fund",
+                    "detailSelection": "Position Level",
+                    "reportType": "Accounting Date",
+                    "reportView": "Exclude Cash View",
+                    "entityBaseCCY": "CAD",
+                    "reportBaseCCY": "CAD"
+                }
+            }
         }
     },
     {
         "name": "eagle-reporting-center-zf2",
-        "title": "Eagle - Reporting Center ZF2",
+        "title": "Reporting Center ZF2",
         "type": "window",
         "details": {
             "url": "http://localhost:9001",
             "mode": "tab",
-            "width": 400,
-            "height": 400
+            "width": 1300,
+            "height": 610
         },
         "customProperties": {
-            "folder": "Eagle"
+            "folder": "Eagle",
+            "env": "ZF2",
+            "taSearchParams": {
+                "AAC0601": {
+                    "entityId": "AAC0601",
+                    "entityName": "AA Global Equity Fund",
+                    "accountingBasis": "GAAP",
+                    "selectView": "Total Fund",
+                    "reportType": "Accounting Date",
+                    "reportPeriod": "Daily Activity"
+                }
+            },
+            "pvSearchParams": {
+                "BBC0601": {
+                    "entityId": "BBC0601",
+                    "entityName": "BB Global Equity Fund",
+                    "accountingBasis": "GAAP",
+                    "selectView": "Total Fund",
+                    "detailSelection": "Position Level",
+                    "reportType": "Accounting Date",
+                    "reportView": "Exclude Cash View",
+                    "entityBaseCCY": "CAD",
+                    "reportBaseCCY": "CAD"
+                }
+            }
         }
     },
     {
         "name": "eagle-reporting-center-zf3",
-        "title": "Eagle - Reporting Center ZF3",
+        "title": "Reporting Center ZF3",
         "type": "window",
         "details": {
             "url": "http://localhost:9001",
             "mode": "tab",
-            "width": 400,
-            "height": 400
+            "width": 1300,
+            "height": 610
         },
         "customProperties": {
-            "folder": "Eagle"
+            "folder": "Eagle",
+            "env": "ZF3",
+            "taSearchParams": {
+                "AAC0601": {
+                    "entityId": "AAC0601",
+                    "entityName": "AA Global Equity Fund",
+                    "accountingBasis": "GAAP",
+                    "selectView": "Total Fund",
+                    "reportType": "Accounting Date",
+                    "reportPeriod": "Daily Activity"
+                }
+            },
+            "pvSearchParams": {
+                "BBC0601": {
+                    "entityId": "BBC0601",
+                    "entityName": "BB Global Equity Fund",
+                    "accountingBasis": "GAAP",
+                    "selectView": "Total Fund",
+                    "detailSelection": "Position Level",
+                    "reportType": "Accounting Date",
+                    "reportView": "Exclude Cash View",
+                    "entityBaseCCY": "CAD",
+                    "reportBaseCCY": "CAD"
+                }
+            }
         }
     },
     {

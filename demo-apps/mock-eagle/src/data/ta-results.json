@@ -1,0 +1,1002 @@
+[
+	{
+		"recordType": 150,
+		"asset": 19458075,
+		"quantity": 48472828,
+		"proceedsLocal": 62016,
+		"netAmountLocal": 579864,
+		"gainSecurityLocal": 413,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 6804999,
+		"quantity": 76759477,
+		"proceedsLocal": 15317,
+		"netAmountLocal": 5139435,
+		"gainSecurityLocal": 14,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 907684,
+		"quantity": 40827715,
+		"proceedsLocal": 70814,
+		"netAmountLocal": 7142724,
+		"gainSecurityLocal": 260,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 6657820,
+		"quantity": 4914531,
+		"proceedsLocal": 90215,
+		"netAmountLocal": 5135173,
+		"gainSecurityLocal": 433,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 5835939,
+		"quantity": 35303075,
+		"proceedsLocal": 35100,
+		"netAmountLocal": 157089,
+		"gainSecurityLocal": 190,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 16418572,
+		"quantity": 24215249,
+		"proceedsLocal": 64862,
+		"netAmountLocal": 174397,
+		"gainSecurityLocal": 338,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 5085274,
+		"quantity": 76881722,
+		"proceedsLocal": 39288,
+		"netAmountLocal": 7113403,
+		"gainSecurityLocal": 236,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 1015855,
+		"quantity": 84977248,
+		"proceedsLocal": 99019,
+		"netAmountLocal": 9452840,
+		"gainSecurityLocal": 364,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 14485035,
+		"quantity": 22273275,
+		"proceedsLocal": 48989,
+		"netAmountLocal": 1899366,
+		"gainSecurityLocal": 73,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 7453527,
+		"quantity": 58691015,
+		"proceedsLocal": 56819,
+		"netAmountLocal": 4899818,
+		"gainSecurityLocal": 24,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 5021851,
+		"quantity": 6914751,
+		"proceedsLocal": 40543,
+		"netAmountLocal": 4172022,
+		"gainSecurityLocal": 407,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 70781,
+		"quantity": 42310798,
+		"proceedsLocal": 86567,
+		"netAmountLocal": 9020538,
+		"gainSecurityLocal": 187,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 480521,
+		"quantity": 2346687,
+		"proceedsLocal": 36594,
+		"netAmountLocal": 8220230,
+		"gainSecurityLocal": 96,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 12595802,
+		"quantity": 49855055,
+		"proceedsLocal": 60588,
+		"netAmountLocal": 7625860,
+		"gainSecurityLocal": 345,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 19700390,
+		"quantity": 82631286,
+		"proceedsLocal": 61394,
+		"netAmountLocal": 2506042,
+		"gainSecurityLocal": 334,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 5733031,
+		"quantity": 7545178,
+		"proceedsLocal": 84449,
+		"netAmountLocal": 9557571,
+		"gainSecurityLocal": 425,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 15427091,
+		"quantity": 2578899,
+		"proceedsLocal": 7496,
+		"netAmountLocal": 8049695,
+		"gainSecurityLocal": 104,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 12211160,
+		"quantity": 46821899,
+		"proceedsLocal": 48819,
+		"netAmountLocal": 549115,
+		"gainSecurityLocal": 86,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 12173091,
+		"quantity": 50045814,
+		"proceedsLocal": 38479,
+		"netAmountLocal": 3655083,
+		"gainSecurityLocal": 119,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 3080821,
+		"quantity": 67887415,
+		"proceedsLocal": 84513,
+		"netAmountLocal": 4684922,
+		"gainSecurityLocal": 123,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 19512191,
+		"quantity": 92932818,
+		"proceedsLocal": 17750,
+		"netAmountLocal": 1848168,
+		"gainSecurityLocal": 212,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 5227474,
+		"quantity": 15342007,
+		"proceedsLocal": 58286,
+		"netAmountLocal": 211270,
+		"gainSecurityLocal": 62,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 11020522,
+		"quantity": 71044657,
+		"proceedsLocal": 97673,
+		"netAmountLocal": 2484286,
+		"gainSecurityLocal": 52,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 2948961,
+		"quantity": 71709836,
+		"proceedsLocal": 52235,
+		"netAmountLocal": 8081107,
+		"gainSecurityLocal": 217,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 8919690,
+		"quantity": 69905929,
+		"proceedsLocal": 19,
+		"netAmountLocal": 2242220,
+		"gainSecurityLocal": 49,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 15398418,
+		"quantity": 48205546,
+		"proceedsLocal": 10869,
+		"netAmountLocal": 4082447,
+		"gainSecurityLocal": 330,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 7715173,
+		"quantity": 73680923,
+		"proceedsLocal": 63863,
+		"netAmountLocal": 4197790,
+		"gainSecurityLocal": 201,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 12559926,
+		"quantity": 17228360,
+		"proceedsLocal": 47615,
+		"netAmountLocal": 3658323,
+		"gainSecurityLocal": 434,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 14043349,
+		"quantity": 4231096,
+		"proceedsLocal": 15572,
+		"netAmountLocal": 6304274,
+		"gainSecurityLocal": 164,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 14651682,
+		"quantity": 81779464,
+		"proceedsLocal": 98781,
+		"netAmountLocal": 2582381,
+		"gainSecurityLocal": 230,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 9728025,
+		"quantity": 64084341,
+		"proceedsLocal": 11124,
+		"netAmountLocal": 6957620,
+		"gainSecurityLocal": 364,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 7378066,
+		"quantity": 13883937,
+		"proceedsLocal": 94430,
+		"netAmountLocal": 1994164,
+		"gainSecurityLocal": 73,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 7866789,
+		"quantity": 15179463,
+		"proceedsLocal": 45886,
+		"netAmountLocal": 3479757,
+		"gainSecurityLocal": 16,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 2633842,
+		"quantity": 25627359,
+		"proceedsLocal": 45210,
+		"netAmountLocal": 2950928,
+		"gainSecurityLocal": 114,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 10459607,
+		"quantity": 99456794,
+		"proceedsLocal": 7936,
+		"netAmountLocal": 9770227,
+		"gainSecurityLocal": 224,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 9553968,
+		"quantity": 13032719,
+		"proceedsLocal": 65491,
+		"netAmountLocal": 7528987,
+		"gainSecurityLocal": 4,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 8605179,
+		"quantity": 26667562,
+		"proceedsLocal": 36799,
+		"netAmountLocal": 9790989,
+		"gainSecurityLocal": 465,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 661659,
+		"quantity": 87193366,
+		"proceedsLocal": 5084,
+		"netAmountLocal": 455172,
+		"gainSecurityLocal": 479,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 15502133,
+		"quantity": 36787816,
+		"proceedsLocal": 43816,
+		"netAmountLocal": 8872175,
+		"gainSecurityLocal": 453,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 6249016,
+		"quantity": 88712389,
+		"proceedsLocal": 57521,
+		"netAmountLocal": 1425356,
+		"gainSecurityLocal": "0",
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 19622405,
+		"quantity": 11685128,
+		"proceedsLocal": 293,
+		"netAmountLocal": 7674509,
+		"gainSecurityLocal": 483,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 10189457,
+		"quantity": 60953209,
+		"proceedsLocal": 26311,
+		"netAmountLocal": 9905957,
+		"gainSecurityLocal": 83,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 13720420,
+		"quantity": 32061363,
+		"proceedsLocal": 44486,
+		"netAmountLocal": 6978046,
+		"gainSecurityLocal": 51,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 15605379,
+		"quantity": 62345435,
+		"proceedsLocal": 1620,
+		"netAmountLocal": 897287,
+		"gainSecurityLocal": 326,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 6829073,
+		"quantity": 53272468,
+		"proceedsLocal": 22837,
+		"netAmountLocal": 6082148,
+		"gainSecurityLocal": 64,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 17737982,
+		"quantity": 72259926,
+		"proceedsLocal": 55742,
+		"netAmountLocal": 9669780,
+		"gainSecurityLocal": 71,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 5543940,
+		"quantity": 19852620,
+		"proceedsLocal": 49135,
+		"netAmountLocal": 9934882,
+		"gainSecurityLocal": 404,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 4175106,
+		"quantity": 8199461,
+		"proceedsLocal": 4479,
+		"netAmountLocal": 4784090,
+		"gainSecurityLocal": 202,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 14240866,
+		"quantity": 45794196,
+		"proceedsLocal": 68801,
+		"netAmountLocal": 2171899,
+		"gainSecurityLocal": 411,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 1998204,
+		"quantity": 55870687,
+		"proceedsLocal": 59475,
+		"netAmountLocal": 6566161,
+		"gainSecurityLocal": 36,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 12414736,
+		"quantity": 65916736,
+		"proceedsLocal": 64751,
+		"netAmountLocal": 3535097,
+		"gainSecurityLocal": 167,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 11435817,
+		"quantity": 21996413,
+		"proceedsLocal": 65732,
+		"netAmountLocal": 2405332,
+		"gainSecurityLocal": 469,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 1063550,
+		"quantity": 21303573,
+		"proceedsLocal": 79420,
+		"netAmountLocal": 1801451,
+		"gainSecurityLocal": 266,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 4032321,
+		"quantity": 51744765,
+		"proceedsLocal": 54690,
+		"netAmountLocal": 7324758,
+		"gainSecurityLocal": 379,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 14332068,
+		"quantity": 24432233,
+		"proceedsLocal": 30243,
+		"netAmountLocal": 9279365,
+		"gainSecurityLocal": 6,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 19406379,
+		"quantity": 58719973,
+		"proceedsLocal": 40410,
+		"netAmountLocal": 785993,
+		"gainSecurityLocal": 50,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 4843136,
+		"quantity": 81933901,
+		"proceedsLocal": 62166,
+		"netAmountLocal": 520386,
+		"gainSecurityLocal": 78,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 156854,
+		"quantity": 81773026,
+		"proceedsLocal": 83143,
+		"netAmountLocal": 2413669,
+		"gainSecurityLocal": 305,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 14351628,
+		"quantity": 16724979,
+		"proceedsLocal": 20652,
+		"netAmountLocal": 2342034,
+		"gainSecurityLocal": 182,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 19000610,
+		"quantity": 73487005,
+		"proceedsLocal": 92488,
+		"netAmountLocal": 7838245,
+		"gainSecurityLocal": 154,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 6584185,
+		"quantity": 62494208,
+		"proceedsLocal": 27909,
+		"netAmountLocal": 4417058,
+		"gainSecurityLocal": 130,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 143659,
+		"quantity": 83577657,
+		"proceedsLocal": 43246,
+		"netAmountLocal": 6258588,
+		"gainSecurityLocal": 470,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 1818681,
+		"quantity": 93601052,
+		"proceedsLocal": 25075,
+		"netAmountLocal": 7612200,
+		"gainSecurityLocal": 400,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 13919824,
+		"quantity": 98452715,
+		"proceedsLocal": 2541,
+		"netAmountLocal": 2699637,
+		"gainSecurityLocal": 74,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 10011151,
+		"quantity": 38540312,
+		"proceedsLocal": 16128,
+		"netAmountLocal": 3997582,
+		"gainSecurityLocal": 308,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 10811174,
+		"quantity": 5999072,
+		"proceedsLocal": 20413,
+		"netAmountLocal": 5815305,
+		"gainSecurityLocal": 80,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 16602449,
+		"quantity": 36505109,
+		"proceedsLocal": 30912,
+		"netAmountLocal": 8654772,
+		"gainSecurityLocal": 470,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 13224943,
+		"quantity": 37619947,
+		"proceedsLocal": 51890,
+		"netAmountLocal": 709079,
+		"gainSecurityLocal": 143,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 13293028,
+		"quantity": 21029326,
+		"proceedsLocal": 88773,
+		"netAmountLocal": 5377211,
+		"gainSecurityLocal": 52,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 12844889,
+		"quantity": 9008778,
+		"proceedsLocal": 93438,
+		"netAmountLocal": 9934561,
+		"gainSecurityLocal": 304,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 13287399,
+		"quantity": 12535406,
+		"proceedsLocal": 1652,
+		"netAmountLocal": 700782,
+		"gainSecurityLocal": 138,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 13512481,
+		"quantity": 43669926,
+		"proceedsLocal": 28462,
+		"netAmountLocal": 5521918,
+		"gainSecurityLocal": 343,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 2075843,
+		"quantity": 68078356,
+		"proceedsLocal": 19250,
+		"netAmountLocal": 2838241,
+		"gainSecurityLocal": 404,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 5388489,
+		"quantity": 76608940,
+		"proceedsLocal": 80847,
+		"netAmountLocal": 6926150,
+		"gainSecurityLocal": 13,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 1221468,
+		"quantity": 92249961,
+		"proceedsLocal": 14332,
+		"netAmountLocal": 2209585,
+		"gainSecurityLocal": 32,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 15936396,
+		"quantity": 53196801,
+		"proceedsLocal": 30941,
+		"netAmountLocal": 9894018,
+		"gainSecurityLocal": 264,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 1229037,
+		"quantity": 20187092,
+		"proceedsLocal": 16463,
+		"netAmountLocal": 2900334,
+		"gainSecurityLocal": 449,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 7017431,
+		"quantity": 37135400,
+		"proceedsLocal": 93341,
+		"netAmountLocal": 7139591,
+		"gainSecurityLocal": 274,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 1704070,
+		"quantity": 58651240,
+		"proceedsLocal": 26251,
+		"netAmountLocal": 4135648,
+		"gainSecurityLocal": 395,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 2368551,
+		"quantity": 86186072,
+		"proceedsLocal": 56933,
+		"netAmountLocal": 1543060,
+		"gainSecurityLocal": 342,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 19259763,
+		"quantity": 23869042,
+		"proceedsLocal": 23748,
+		"netAmountLocal": 612351,
+		"gainSecurityLocal": 222,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 628929,
+		"quantity": 55930102,
+		"proceedsLocal": 69588,
+		"netAmountLocal": 8707209,
+		"gainSecurityLocal": 291,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 5978984,
+		"quantity": 53568220,
+		"proceedsLocal": 29532,
+		"netAmountLocal": 5691367,
+		"gainSecurityLocal": 440,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 18665185,
+		"quantity": 13423100,
+		"proceedsLocal": 75105,
+		"netAmountLocal": 1428579,
+		"gainSecurityLocal": 175,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 1237331,
+		"quantity": 19426284,
+		"proceedsLocal": 37580,
+		"netAmountLocal": 930676,
+		"gainSecurityLocal": 273,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 11718381,
+		"quantity": 24974239,
+		"proceedsLocal": 36479,
+		"netAmountLocal": 1416678,
+		"gainSecurityLocal": 236,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 5094752,
+		"quantity": 74108281,
+		"proceedsLocal": 80621,
+		"netAmountLocal": 4392332,
+		"gainSecurityLocal": 63,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 11264525,
+		"quantity": 63650534,
+		"proceedsLocal": 83410,
+		"netAmountLocal": 3516958,
+		"gainSecurityLocal": 9,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 7030007,
+		"quantity": 42490952,
+		"proceedsLocal": 83245,
+		"netAmountLocal": 3854135,
+		"gainSecurityLocal": 204,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 12763985,
+		"quantity": 3484123,
+		"proceedsLocal": 68107,
+		"netAmountLocal": 8174043,
+		"gainSecurityLocal": 161,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 3900865,
+		"quantity": 720649,
+		"proceedsLocal": 78645,
+		"netAmountLocal": 9703505,
+		"gainSecurityLocal": 88,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 1904893,
+		"quantity": 2155592,
+		"proceedsLocal": 59377,
+		"netAmountLocal": 6794398,
+		"gainSecurityLocal": 401,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 14063323,
+		"quantity": 99538172,
+		"proceedsLocal": 16170,
+		"netAmountLocal": 5479715,
+		"gainSecurityLocal": 380,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 18690181,
+		"quantity": 49166302,
+		"proceedsLocal": 63633,
+		"netAmountLocal": 3677079,
+		"gainSecurityLocal": 430,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 9837587,
+		"quantity": 19243401,
+		"proceedsLocal": 47431,
+		"netAmountLocal": 3158664,
+		"gainSecurityLocal": 143,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 14005759,
+		"quantity": 18835031,
+		"proceedsLocal": 28694,
+		"netAmountLocal": 8655736,
+		"gainSecurityLocal": 455,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 1081115,
+		"quantity": 59194698,
+		"proceedsLocal": 72047,
+		"netAmountLocal": 917640,
+		"gainSecurityLocal": 301,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 6403144,
+		"quantity": 23862780,
+		"proceedsLocal": 75842,
+		"netAmountLocal": 2684102,
+		"gainSecurityLocal": 157,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 1544186,
+		"quantity": 18541436,
+		"proceedsLocal": 3347,
+		"netAmountLocal": 7952540,
+		"gainSecurityLocal": 79,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	},
+	{
+		"recordType": 150,
+		"asset": 6973064,
+		"quantity": 14302544,
+		"proceedsLocal": 54484,
+		"netAmountLocal": 3043560,
+		"gainSecurityLocal": 67,
+		"coupon": 0,
+		"reportStartDate": "Sep 27 2023"
+	}
+]
